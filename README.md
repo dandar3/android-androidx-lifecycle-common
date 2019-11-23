@@ -5,7 +5,8 @@ https://maven.google.com/androidx/lifecycle/lifecycle-common/2.0.0/lifecycle-com
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
-- [dandar3/android-androidx-annotation](https://github.com/dandar3/android-androidx-annotation/tree/2.0.0)
+- [dandar3/android-androidx-annotation](https://github.com/dandar3/android-androidx-annotation/tree/1.0.0)
+
 
 
 **References:**
